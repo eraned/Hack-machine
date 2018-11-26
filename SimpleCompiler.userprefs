@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{3FBFBD51-DF08-493B-8D74-5E9E1CE7B1DF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="74" Column="27" />
+      <File FileName="Compiler.cs" Line="169" Column="2" />
+      <File FileName="TokensStack.cs" Line="1" Column="1" />
+      <File FileName="JackProgram.cs" Line="20" Column="39" />
+      <File FileName="Function.cs" Line="56" Column="13" />
+      <File FileName="VarDeclaration.cs" Line="18" Column="10" />
+      <File FileName="Expression.cs" Line="29" Column="13" />
+      <File FileName="WhileStatement.cs" Line="39" Column="12" />
+      <File FileName="IfStatement.cs" Line="34" Column="34" />
+      <File FileName="LetStatement.cs" Line="36" Column="13" />
+      <File FileName="ReturnStatement.cs" Line="25" Column="39" />
+      <File FileName="BinaryOperationExpression.cs" Line="35" Column="51" />
+      <File FileName="FunctionCallExpression.cs" Line="29" Column="34" />
+      <File FileName="VariableExpression.cs" Line="1" Column="1" />
+      <File FileName="NumericExpression.cs" Line="26" Column="1" />
+      <File FileName="../CodeFiles/Program.Jack" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SimpleCompiler PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/eranedri/Desktop/מבנה מערכות מחשוב/עבודות הגשה/Ex3/3.2/SimpleCompiler/Compiler.cs" relfile="Compiler.cs" line="167" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
